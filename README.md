@@ -16,8 +16,8 @@ The projects include:
 - tested Python web application (`lab13/myapp`)
 - written reports and documentation
 
-## ⭐ Highlight – Lab13: Individual Project
-`lab13/myapp/` is an **individual project developed independently** as part of the course.  
+## ⭐ Highlight – Lab13: Web Application Project
+`lab13/myapp/` is a **web application project developed individually as part of the course.**  
 It is a **Python web application** with the following features:
 - built using **Flask**
 - includes **unit tests** (`test_app.py`)
