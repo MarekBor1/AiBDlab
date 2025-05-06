@@ -48,5 +48,4 @@ pytest
 Marek Borkowski
 
 ## Notes
-This repository showcases work completed as part of academic coursework.  
-Lab13 is a web application project created as part of the course curriculum.
+This repository showcases work completed as part of academic coursework. 
