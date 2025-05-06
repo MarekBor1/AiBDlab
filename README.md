@@ -39,7 +39,6 @@ AiBDlab/
 │ └── test/
 │ └── test_app.py
 ```
-```
 ## Requirements
 Python 3.x
 textblob
