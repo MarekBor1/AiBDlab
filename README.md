@@ -1,30 +1,22 @@
-# AiBDlab – Projects from Artificial Intelligence and Big Data course
+# Artificial Intelligence and Big Data – Course Projects
 
 ## Overview
-This repository contains a collection of projects and lab exercises completed during the **Artificial Intelligence and Big Data** course at AGH University of Science and Technology.
 
-The repository demonstrates my skills in:
-- Python programming
-- Data analysis and visualization
-- Machine learning basics
-- API development and testing
-- Software engineering practices (including unit testing and version control)
+This repository contains a collection of projects and lab exercises completed during the **Artificial Intelligence and Big Data** course at **AGH University of Science and Technology**.
 
-The projects include:
-- data analysis notebooks (Jupyter Notebooks)
-- Python scripts for data processing and modeling
-- tested Python web application (`lab13/myapp`)
-- written reports and documentation
+It showcases my work and skills in:
 
-## ⭐ Highlight – Lab13: Web Application Project
-`lab13/myapp/` is a **web application project developed individually as part of the course.**  
-It is a **Python web application** with the following features:
-- built using **Flask**
-- includes **unit tests** (`test_app.py`)
-- modular structure with separate test folder
-- demonstrates basic web app structure, routing, and testing in Python
+- **Python programming**
+- **Data analysis and visualization**
+- **Basic machine learning concepts**
+- **Software engineering practices** (including writing unit tests and using version control)
 
-✅ This project highlights my ability to design, implement, and test a working Python application.
+## 📁 Projects included:
+
+- **Data analysis notebooks** (Jupyter Notebooks)
+- **Python scripts** for data processing and modeling
+- **Python functions and algorithms with unit tests** (lab13/myapp)
+- **Written reports and documentation**
 
 ## Project Structure
 ```
@@ -47,30 +39,10 @@ AiBDlab/
 │ └── test/
 │ └── test_app.py
 ```
-
-## How to Run Lab13 Application
-1. Install required packages:
-```bash
-pip install flask
-```
-2. Run the app:
-```bash
-cd lab13/myapp
-python app.py
-```
-4. Open your browser at
-```bash
-http://localhost:5000
-```
-6. To run tests:
-```bash
-
-
-pytest test/test_app.py
 ```
 ## Requirements
 Python 3.x
-Flask
+textblob
 pytest
 
 ## Author
